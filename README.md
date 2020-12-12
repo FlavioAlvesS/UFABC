@@ -4,5 +4,5 @@ Repositório criado para compartilhamento do trabalho de graduação desenvolvid
 
 ## Título: ANÁLISE DE TÉCNICAS DE APRENDIZADO DE MÁQUINA NO RECONHECIMENTO DE PADRÕES EM DADOS DE ACIDENTES DE TRÂNSITO
 
-Os dados utilizado para desenvolvimento do trabalho podem ser acessados pelo link:
+Os dados utilizados para desenvolvimento do trabalho estão disponíveis no link:
   https://www.kaggle.com/nhtsa/2015-traffic-fatalities
